@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+**个人信息**
 
-You can use the [editor on GitHub](https://github.com/resume0/resume0.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- 昵称: Marvin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 出生日期: 1995.09.26
 
-### Markdown
+- 联系方式: 18814386589 | jycomputer_417@163.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 求职意向: 前端工程师
 
-```markdown
-Syntax highlighted code block
+**专业技能**
 
-# Header 1
-## Header 2
-### Header 3
+- 丰富的 微信小程序 开发经验, 已上线 20+ 个小程序, 涉及电商、社交、教育等领域
 
-- Bulleted
-- List
+- 掌握 HTML、CSS、Sass、Less
 
-1. Numbered
-2. List
+- 掌握 JavaScript(ES6+)、Vue、jQuery
 
-**Bold** and _Italic_ and `Code` text
+- 熟悉 node、React
 
-[Link](url) and ![Image](src)
-```
+- 熟悉前端工程化, 包括 gulp、webpack、parcel、rollup、babel、eslint、stylelint、git 等。积累出小程序脚手架和 Vue 脚手架, 并且持续更新维护
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 了解 mongoDB、网络工程、信息安全等技术
 
-### Jekyll Themes
+**工作经历**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/resume0/resume0.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 2017.10 - 2018.05 广州搜惠信息科技有限公司
 
-### Support or Contact
+- 2018.06 - 至今 广州乐豆信息科技有限公司
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**项目经历**
+
+- TODO
+
+**教育背景**
+
+- 梅州市 嘉应学院-软件工程专业 学士学位
+
+**自我评价**
+
+- 具备独立开发前端相关业务的能力, 对任务的安排和团队的协作都比较出色
+
+- 平时会注重保持较高的代码质量以及 Code Review 的习惯
+
+- 学习和抗压能力较强
+
+- 热爱开源, 乐于分享
